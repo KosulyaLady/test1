@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+:root {
+  --bg-coral: rgb(255, 251, 243);
+  --bg-light-coral: rgb(259, 243, 225);
+  --bg-button: rgb(255, 193, 47);
+
+  --text-smail-fs: 12px;
+  --text-normal-fs: 14px;
+  --text-middle1-fs: 17px;
+  --text-n2-fs: 16px;
+  --text-middle2-fs: 19px;
+  --text-middle-fs: 20px;
+  --text-l-fs: 32px;
+  --text-big-fs: 36px;
+  --text-top: 48px;
+
+  --size-input-control: 190px;
+
+  --text-color-grey1: rgb(60, 60, 60);
+  --text-color-grey: rgb(102, 112, 133);
+  --text-color-yellow: rgb(252, 198, 71);
+  --text-color-black: rgb(60, 60, 60);
+  --text-color-sky-yellow: rgb(255, 255, 255);
+  --background-button: rgb(255, 193, 47);
+  --text-normal-ff: Inter;
+  --text-link-ff: Segoe UI;
+
+  --size-icon-start: 13px;
+}
+
+@font-face {
+  font-family: Segoe UI;
+  font-weight: 700;
+  src: url(./font-family/segoe-ui-this/segoeuithibd.ttf);
+}
+@font-face {
+  font-family: Segoe UI;
+  font-weight: 400;
+  src: url(./font-family/segoe-ui-this/segoeuithisz.ttf);
+}
+
+/* class size text display */
+
+/* size */
+
+.max-width-content {
+}
+
+.text-grey-normal {
+  color: var(--text-color-grey);
+  font-family: var(--text-normal-ff);
+  font-size: var(--text-normal-fs);
+}
+.text-grey-big {
+  color: var(--text-color-grey);
+  font-family: var(--text-normal-ff);
+  font-size: var(--text-n2-fs);
+}
+.text-grey-smail {
+  color: var(--text-color-grey);
+  font-family: var(--text-normal-ff);
+  font-size: var(--text-smail-fs);
+
+}
