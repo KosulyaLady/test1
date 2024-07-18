@@ -9,6 +9,7 @@
   --text-normal-fs: 14px;
   --text-middle1-fs: 17px;
   --text-n2-fs: 16px;
+  --text-middle18-fs: 18px;
   --text-middle2-fs: 19px;
   --text-middle-fs: 20px;
   --text-l-fs: 32px;
@@ -23,10 +24,14 @@
   --text-color-black: rgb(60, 60, 60);
   --text-color-sky-yellow: rgb(255, 255, 255);
   --background-button: rgb(255, 193, 47);
+  --background-button-yellow: rgb(252, 198, 71);
   --text-normal-ff: Inter;
   --text-link-ff: Segoe UI;
 
   --size-icon-start: 13px;
+  --size-button-pagination: 40px;
+  --size-image: 130px;
+
 }
 
 @font-face {
