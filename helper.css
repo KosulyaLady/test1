@@ -4,6 +4,9 @@
   --bg-coral: rgb(255, 251, 243);
   --bg-light-coral: rgb(259, 243, 225);
   --bg-button: rgb(255, 193, 47);
+  --bg-white: rgb(255, 255, 255);
+  --bg-yellow: rgb(254, 185, 24);
+  --bg-black: rgb(35, 34, 51);
 
   --text-smail-fs: 12px;
   --text-normal-fs: 14px;
@@ -12,6 +15,8 @@
   --text-middle18-fs: 18px;
   --text-middle2-fs: 19px;
   --text-middle-fs: 20px;
+  --text-footer-fs: 25px;
+  --text-footer-contact-fs: 28px;
   --text-l-fs: 32px;
   --text-big-fs: 36px;
   --text-top: 48px;
@@ -21,10 +26,12 @@
   --text-color-grey1: rgb(60, 60, 60);
   --text-color-grey: rgb(102, 112, 133);
   --text-color-yellow: rgb(252, 198, 71);
+  --text-color-grey-dark: rgb(108, 108, 114);
   --text-color-black: rgb(60, 60, 60);
   --text-color-sky-yellow: rgb(255, 255, 255);
   --background-button: rgb(255, 193, 47);
   --background-button-yellow: rgb(252, 198, 71);
+  --background-button-input: rgb(254, 185, 24);
   --text-normal-ff: Inter;
   --text-link-ff: Segoe UI;
 

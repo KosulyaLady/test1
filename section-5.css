@@ -1,0 +1,79 @@
+.sect-5 {
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 113px;
+  padding-bottom: 284px;
+ 
+}
+.sect-5-wrap  {
+    height: 575px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: 94px;
+}
+.sect5-left {
+    width: 42%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+}
+.sect5-top-text {
+    color: var(  --text-color-grey1);
+font-family: var(  --text-link-ff);
+font-size: var(--text-big-fs);
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 48px;
+margin-top: 0;
+}
+.sect5-parag {
+    color: var(--text-color-grey);
+font-family: var(  --text-normal-ff);
+font-size: var( --text-n2-fs);
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 0;
+margin-bottom: 59px;
+}
+.sect5-button {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 22px;
+    margin: 0;
+    padding: 0;
+    
+}
+.button-download {
+    width: 139px;
+    height: 45px;
+   padding: 0; 
+   border: none;
+}
+
+.download-button {
+    width: 139px;
+    height: 45px;
+   
+
+
+
+}
+.sect5-right {
+ 
+    display: flex;
+}
+.tel-sect5-img {
+height: 100%;
+}
